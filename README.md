@@ -1,0 +1,2 @@
+# squali
+GitHub Pages
